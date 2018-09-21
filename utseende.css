@@ -1,0 +1,62 @@
+body{	background-color: beige; margin:0;}
+
+a:link{	color: darkblue;}
+
+.page {width:100%; margin:0;}
+.header {background-color:#BE324C; height:10vh; width:100%; text-align:center;color:darkblue; margin:0;}
+
+
+.button {background-color: #BE324C;
+	border-radius: 15px;
+	color: darkblue;
+	padding: 5px 10px;
+	text-align:center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	margin: 2px 1px;
+	cursor: pointer;
+	width:8%;}
+
+.probtn {background-color: blue;
+	border-radius: 5px;
+	color: #BE324C;
+	padding: 5px 10px;
+	text-align:center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	margin: 2px 1px;
+	cursor: pointer;
+	width:8%;}
+
+.leftcol{background-color:rgb(247, 247, 236);
+	height:85vh;
+	float:left;
+	width:20%}
+
+.content{background-color:beige;
+	height:80.3vh;
+	width:60%;
+	float:left;
+	text-align:center;}
+
+.rightcol{background-color:rgb(247, 247, 236);
+	height:85vh;
+	width:20%;
+	float:right;
+	margin:-30px auto;}
+
+.footer {background-color:#BE324C;
+	clear:both;
+	text-align:center;
+	height:10vh}
+
+.proj {text-align:left; color: darkblue;}
+
+.bekraftabok {background-color: darkblue; border-radius: 15px;color: #BE324C; padding: 10px 15px;text-align:center;
+	text-decoration: none; display: inline-block; font-size: 14px; margin: 2px 1px; cursor: pointer; width:20%; position: absolute; bottom: -5; ; right: 40%;}
+
+.tabeltext {text-align: left; }
+
+h1 { margin:0;}

@@ -59,4 +59,5 @@ a:link{	color: darkblue;}
 
 .tabeltext {text-align: left; }
 
-h1 { margin:0;}
+h1 { margin:0; background-color: blueviolet}
+h2 {color: blueviolet}

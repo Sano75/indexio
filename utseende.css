@@ -4,6 +4,13 @@ a:link{	color: darkblue;}
 
 .page {width:100%; margin:0;}
 .header {background-color:#BE324C; height:10vh; width:100%; text-align:center;color:darkblue; margin:0;}
+.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    border: 3px solid #73AD21;
+}
 
 
 .button {background-color: #BE324C;
